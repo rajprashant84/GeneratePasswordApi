@@ -1,6 +1,6 @@
 # main.py
 from fastapi import FastAPI
-from app.api.api import router as api_router
+from app.api.passwordApi import router as api_router
 
 app = FastAPI()
 
