@@ -24,7 +24,7 @@ step.
   Ensure that you have Python installed on your machine before setting up the GeneratePasswordApi project. If Python is not installed, you can download and install it from the [official Python website](https://www.python.org/downloads/).
    
 1. **Clone the Repository to your local machine:**
-    * cd your-repository
+    
 2. **Create a Virtual Environment:**
     * python -m venv venv
       
