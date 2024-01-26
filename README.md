@@ -16,26 +16,26 @@ step.
 
 
 ## Technology Used
-1.Python(13.0)
-2.FastApi
-3.uvicorn
+* Python(13.0)
+* FastApi
+* uvicorn
 
 ## Prerequisites 
-1. Ensure that you have install python on your machine.
+* Ensure that you have install python on your machine.
 
 ## getting started
-   ```bash To setup and run the GeneratePasswordApi project, follow these steps:
+* To setup and run the GeneratePasswordApi project, follow these steps:
    
 1. **Clone the Repository to your local machine:**
-    cd your-repository
+    * cd your-repository
 2. **Create a Virtual Environment:**
-     python -m venv venv
-     source venv/bin/activate   # For Unix/Mac
-     venv\Scripts\activate      # For Windows
+    * python -m venv venv
+    * source venv/bin/activate   # For Unix/Mac
+    * venv\Scripts\activate      # For Windows
 3. **Install Dependencies:**
-    pip install -r requirements.txt
+   * pip install -r requirements.txt
 
 4. **Run the FastAPI Server:**
-   uvicorn main:app --reload
+   * uvicorn main:app --reload
 
 
