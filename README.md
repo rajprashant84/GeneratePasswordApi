@@ -41,6 +41,8 @@ step.
 
 4. **Run the FastAPI Server:**
    * uvicorn main:app --reload
+5. **Enter local url or below url in browser :**
+   * http://127.0.0.1:8000/docs
 
 
 ![FastAPI-Swagger-UI](https://github.com/rajprashant84/GeneratePasswordApi/assets/63925713/6fc726b3-3d26-48b2-acda-ead111054d7c)
