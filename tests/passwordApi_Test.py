@@ -7,7 +7,7 @@ from app.utility.validate_password import validate_password_request
 app = FastAPI()
 
 # Import your router and add it to the app
-from app.api.api import router
+from app.api.passwordApi import router
 
 app.include_router(router)
 
