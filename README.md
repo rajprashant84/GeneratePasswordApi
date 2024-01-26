@@ -43,3 +43,6 @@ step.
    * uvicorn main:app --reload
 
 
+![FastAPI-Swagger-UI](https://github.com/rajprashant84/GeneratePasswordApi/assets/63925713/6fc726b3-3d26-48b2-acda-ead111054d7c)
+
+
