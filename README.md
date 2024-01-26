@@ -23,8 +23,8 @@ step.
 ## Prerequisites 
 * Ensure that you have install python on your machine.
 
-## getting started
-* To setup and run the GeneratePasswordApi project, follow these steps:
+## Getting started
+   To setup and run the GeneratePasswordApi project, follow these steps:
    
 1. **Clone the Repository to your local machine:**
     * cd your-repository
