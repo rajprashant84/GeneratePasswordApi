@@ -16,7 +16,7 @@ step.
 
 
 ## Technology Used
-* Python(13.0)
+* Python
 * FastApi
 * uvicorn
 
