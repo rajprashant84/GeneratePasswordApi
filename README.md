@@ -15,13 +15,19 @@ password.
 step.
 
 
+## Technology Used
+1.Python(13.0)
+2.FastApi
+3.uvicorn
 
+## Prerequisites 
+1. Ensure that you have install python on your machine.
 
-## Setup
-1. **Clone the Repository:**
+## getting started
+   ```bash To setup and run the GeneratePasswordApi project, follow these steps:
    
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+1. **Clone the Repository to your local machine:**
+    cd your-repository
 2. **Create a Virtual Environment:**
      python -m venv venv
      source venv/bin/activate   # For Unix/Mac
