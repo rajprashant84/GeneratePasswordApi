@@ -30,9 +30,10 @@ step.
     * cd your-repository
 2. **Create a Virtual Environment:**
     * python -m venv venv
-      **For Unix/Mac :**
+      
+      ## For Unix/Mac :
     * source venv/bin/activate
-       **For Windows  :**
+       ## For Windows  :
     * venv\Scripts\activate
       
 3. **Install Dependencies:**
